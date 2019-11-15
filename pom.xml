@@ -6,7 +6,11 @@
 
     <groupId>com.zhao</groupId>
     <artifactId>AutoTest</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>chapter5</module>
+    </modules>
 
 
 </project>
